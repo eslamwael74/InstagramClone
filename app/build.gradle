@@ -32,4 +32,9 @@ dependencies {
     compile 'de.hdodenhof:circleimageview:2.1.0'
     //UIL
     compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
+    //firebas auth
+    compile 'com.google.firebase:firebase-core:11.0.2'
 }
+//Firebase
+apply plugin: 'com.google.gms.google-services'
+
